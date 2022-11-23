@@ -3,7 +3,7 @@ Website for business Shaun's Automive. Customers can view the offered services, 
 
 **Link to project:** http://shaunsauto.netlify.app/
 
-![alt tag](ezgif.com-gif-maker.gif)
+![alt tag](https://media.giphy.com/media/yTjVQSSse8fKkOcdz6/giphy.gif)
 
 ## How It's Made:
 
