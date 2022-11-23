@@ -4095,6 +4095,7 @@ input, select, textarea {
 				#map.footer-box{
 					width: 30%;
 					padding-top: 6rem;
+					margin-right: 6px;
 				}
 
 	@media screen and (max-width: 1280px) {
